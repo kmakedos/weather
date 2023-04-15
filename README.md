@@ -1,2 +1,2 @@
 # weather
-A simple weather learning Go microservice
+A simple weather microservice on my way to learn Go
